@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Shared audio helpers for the nahuatl-intent tools.
+"""Shared audio helpers for the script-to-intent-utt tools.
 
 ffmpeg and ffprobe do all decoding; numpy does the arithmetic. Nothing in
 this module writes a file, so it can be used freely on the raw recordings.

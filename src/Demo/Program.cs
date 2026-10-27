@@ -58,7 +58,7 @@ namespace NahuatlIntent.Demo
   dotnet run --project src/Demo -- --text ""hola""      skip Whisper, match the text
 
 Options:
-  --model PATH     ggml model (default ~/.cache/nahuatl-intent/ggml-small.bin, downloaded on first use)
+  --model PATH     ggml model (default ~/.cache/script-to-intent-utt/ggml-small.bin, downloaded on first use)
   --data PATH      phrases.json (default <repo>/data/phrases.json)
   --clean DIR      clean WAV folder (default <repo>/audio/clean)
   --threshold N    Levenshtein distance for near misses (default 1, 0 disables)
@@ -109,7 +109,7 @@ Options:
                 }
 
                 var recorder = new Recorder();
-                string wavPath = Path.Combine(Path.GetTempPath(), "nahuatl-intent-rec.wav");
+                string wavPath = Path.Combine(Path.GetTempPath(), "script-to-intent-utt-rec.wav");
                 while (true)
                 {
                     Console.Write("\nEnter to record, q to quit: ");

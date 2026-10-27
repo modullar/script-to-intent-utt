@@ -1,4 +1,4 @@
-# nahuatl-intent
+# script-to-intent-utt
 
 A Spanish sentence goes in, one of the 122 Náhuatl recordings comes out.
 
@@ -143,7 +143,7 @@ dotnet run --project src/Demo -- --text "cuántos perros hay"
 It greets with clip 001, prints transcript, normalised text, keywords hit,
 intent, clip, Náhuatl and Spanish, then plays the WAV with `afplay`. The
 first run downloads `ggml-small` (about 480 MB) to
-`~/.cache/nahuatl-intent/`. `--no-audio` skips playback; `--threshold 0`
+`~/.cache/script-to-intent-utt/`. `--no-audio` skips playback; `--threshold 0`
 turns the near-miss pass off.
 
 ## 5. Integration run

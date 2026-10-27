@@ -26,7 +26,7 @@ namespace NahuatlIntent.Demo
         public static string DefaultModelPath()
         {
             string home = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile);
-            return Path.Combine(home, ".cache", "nahuatl-intent", "ggml-small.bin");
+            return Path.Combine(home, ".cache", "script-to-intent-utt", "ggml-small.bin");
         }
 
         public static async Task<Transcriber> CreateAsync(string modelPath)

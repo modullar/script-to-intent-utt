@@ -14,7 +14,7 @@ correct in a quiet room and 8 of 10 in a noisy room.
 
    The WAVs are git-ignored; they stay on your machine.
 3. Run it. The first run downloads `ggml-small` (about 480 MB) into
-   `~/.cache/nahuatl-intent/`:
+   `~/.cache/script-to-intent-utt/`:
 
    ```sh
    dotnet test tests/Integration --logger "console;verbosity=detailed"
