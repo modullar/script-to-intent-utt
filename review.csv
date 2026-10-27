@@ -1,0 +1,183 @@
+id,status,intent,canonical,approved,nahuatl,spanish,keywordsEs,clip,durationS,notes
+001,ok,como_estan_mis_amigos,yes,yes,¿Kenin nonkatej axxan noyolikniwan?,¿Cómo están mis amigos?,como estan mis amigos | estan amigos | estan | amigos,Audio-001-2026.wav,3.380,"Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+002,ok,como_estan,yes,yes,¿Kenin nonkatej axxan?,¿Cómo están?,como estan | estan | como estas | estas | hola,Audio-002-2026.wav,2.100,"Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+003,ok,te_gusta,yes,yes,¿Mitspaktia?,¿Te gusta?,te gusta,Audio-003-2026.wav,1.060,"Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+004,ok,te_gusta_bailar,yes,yes,¿Mitspaktia timijtotis?,¿Te gusta bailar?,te gusta bailar | bailar,Audio-004-2026.wav,1.840,"Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+005,ok,te_gustan_los_animales,yes,yes,¿Mitspaktia yolkalmej?,¿Te gustan los animales?,te gustan los animales | animales,Audio-005-2026.wav,3.459,"Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+006,ok,hoy_cantare,yes,yes,Axxan nikuikas,Hoy cantaré,hoy cantare | cantare,Audio-006-2026.wav,1.500,"Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+007,ok,uno,yes,yes,Se,Uno,uno,Audio-007-2026.wav,0.740,
+008,ok,dos,yes,yes,Ome,Dos,dos,Audio-008-2026.wav,0.720,
+009,ok,tres,yes,yes,Yeyi,Tres,tres | tre,Audio-009-2026.wav,0.760,
+010,ok,porque_te_amo,yes,yes,Pampa nimitstlasojtla,Porque te amo,porque te amo | amo,Audio-010-2026.wav,1.660,
+011,ok,guarda_esta_flor,yes,yes,Xikiyewa in xochitl,Guarda esta flor,guarda esta flor | guarda flor | guarda | flor,Audio-011-2026.wav,1.580,
+012,ok,guardala_en_tu_corazon,yes,yes,Xikiyewan ipan moyolo,Guárdala  en tu corazón,guardala en tu corazon | guardala corazon | guardala,Audio-012-2026.wav,1.980,
+013,ok,con_todo_mi_corazon,yes,yes,Ica nochi noyolo,Con todo mi corazón,con todo mi corazon,Audio-013-2026.wav,1.440,
+014,ok,tus_ojos_son_hermosos_como_un_amanecer_en_el_cielo,yes,yes,Moixtololowan katej kwakwaltzin ken se tlane si ipan ilwikatl,Tus ojos son hermosos como un amanecer en el cielo,tus ojos son hermosos como un amanecer en el cielo | ojos hermosos amanecer cielo | ojos | hermosos | amanecer | cielo,Audio-014-2026.wav,5.140,
+015,ok,sabemos_como_empieza_nuestra_historia_pero_no_como_termina,yes,yes,Tikmatij ken pewa tonemilis amo tikmatij ken tlamiti,Sabemos como empieza nuestra historia pero no como termina.,sabemos como empieza nuestra historia pero no como termina | sabemos empieza nuestra historia termina | sabemos | empieza | nuestra | historia | termina,Audio-015-2026.wav,4.060,
+016,ok,como_se_dice_buenas_noches,yes,yes,Ken moijtoa ika nawatlajtolikuali yowal,¿Cómo se dice buenas noches?,como se dice buenas noches | buenas | noches,Audio-016-2026.wav,3.840,"Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+017,ok,asi_se_dice,yes,yes,Ikon moijtoa,Así se dice,asi se dice | asi,Audio-017-2026.wav,1.400,"canonical for 'asi_se_dice'; duplicates: 108; Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+018,ok,buenas_noches,yes,yes,Kuali yowal,Buenas noches,buenas noches | buenas | noches,Audio-018-2026.wav,1.120,"canonical for 'buenas_noches'; duplicates: 045, 054"
+019,ok,no_tengas_miedo,yes,yes,Amo ximomauti,No tengas miedo,no tengas miedo | tengas miedo | tengas | miedo,Audio-019-2026.wav,1.280,
+020,suspect,buenas_noches,,no,Ken moijtos ika nawatlajtoli,Buenas noches,buenas noches | buenas | noches,Audio-020-2026.wav,2.380,"SUSPECT: Label looks wrong: 'Ken moijtos ika nawatlajtoli' means 'how do you say ... in Náhuatl', not 'buenas noches'. Compare 016/107."
+021,ok,corta_una_flor,yes,yes,Xikteki se Xochitl,Corta una flor,corta una flor | corta flor | corta | flor,Audio-021-2026.wav,1.600,
+022,ok,ayudame,yes,yes,Xinechpaleui,Ayúdame,ayudame | ayudames,Audio-022-2026.wav,1.380,
+023,ok,duerme,yes,yes,Xicochi,Duerme,duerme | duermes,Audio-023-2026.wav,0.980,
+024,ok,lava_la_olla,yes,yes,Xikpaka in komitl,Lava la olla,lava la olla | lava olla | lava,Audio-024-2026.wav,1.740,
+025,ok,olla,yes,yes,komitl,Olla,olla | ollas,Audio-025-2026.wav,0.860,
+026,ok,ven_aqui,yes,yes,Xiuala nikan,Ven aquí,ven aqui | ven,Audio-026-2026.wav,1.420,"Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+027,ok,hombre,yes,yes,Tlacatl,Hombre,hombre | hombres,Audio-027-2026.wav,1.425,
+028,ok,mujer,yes,yes,Siwatl,Mujer,mujer | mujeres,Audio-028-2026.wav,0.920,"canonical for 'mujer'; duplicates: 090; Same word as 090 with modern spelling (Siwatl / Siuatl). Both kept, 028 is canonical."
+029,ok,agua,yes,yes,Atl,Agua,agua | aguas,Audio-029-2026.wav,0.680,canonical for 'agua'; duplicates: 085
+030,ok,arana,yes,yes,Tocatl,Araña,arana | aranas,Audio-030-2026.wav,0.780,
+031,ok,cerro,yes,yes,Tepetl,Cerro,cerro | cerros,Audio-031-2026.wav,0.840,canonical for 'cerro'; duplicates: 033
+032,ok,sean_bienvenidos,yes,yes,Ma kuali xiualakan,Sean bienvenidos,sean bienvenidos | bienvenidos,Audio-032-2026.wav,1.600,"canonical for 'sean_bienvenidos'; duplicates: 073; Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+033,duplicate,cerro,,yes,Tepetl,Cerro,cerro | cerros,Audio-033-2026.wav,0.980,duplicate of 031 ('cerro')
+034,ok,casa,yes,yes,Kali,Casa,casa | casas,Audio-034-2026.wav,0.720,canonical for 'casa'; duplicates: 087
+035,ok,hagan_una_casa,yes,yes,Xi K chigua kan se kali,Hagan una casa,hagan una casa | hagan casa | hagan,Audio-035-2026.wav,1.800,canonical for 'hagan_una_casa'; duplicates: 040
+036,ok,coman,yes,yes,Xi tlakua kan,Coman,coman | comanes,Audio-036-2026.wav,1.160,
+037,ok,vivan,yes,yes,Xi nemi,Vivan,vivan | vivanes,Audio-037-2026.wav,1.120,canonical for 'vivan'; duplicates: 039
+038,ok,deja_eso,yes,yes,Xi tlakaua,Deja eso,deja eso | deja,Audio-038-2026.wav,1.120,
+039,duplicate,vivan,,yes,Xi nemi kan,Vivan,vivan | vivanes,Audio-039-2026.wav,1.140,duplicate of 037 ('vivan')
+040,duplicate,hagan_una_casa,,yes,Xi k chiua kan se kali,Hagan una casa,hagan una casa | hagan casa | hagan,Audio-040-2026.wav,1.800,duplicate of 035 ('hagan_una_casa')
+041,ok,no_llores,yes,yes,Amo xi choca,No llores,no llores | llores | no llora | no llore,Audio-041-2026.wav,1.400,'no llora' / 'no llore' added (judgment call): children conjugate loosely; both should reach 'no llores'.
+042,ok,pueblo,yes,yes,Altepetl,Pueblo,pueblo | pueblos,Audio-042-2026.wav,0.980,
+043,ok,llora,yes,yes,Xichoka,Llora,llora | lloras,Audio-043-2026.wav,1.120,
+044,ok,camina,yes,yes,Xi nenemi  kan,Camina,camina | caminas,Audio-044-2026.wav,1.380,
+045,duplicate,buenas_noches,,yes,Yohualtzino,Buenas noches,buenas noches | buenas | noches,Audio-045-2026.wav,1.140,"duplicate of 018 ('buenas_noches'); Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+046,ok,buenas_tardes_amigos,yes,yes,Kuali tiotlaquiltzin noyolicnihuan,Buenas tardes amigos,buenas tardes amigos | buenas | tardes | amigos,Audio-046-2026.wav,2.680,"Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+047,ok,me_llamo,yes,yes,Neh nimotoca,Me llamo,me llamo | llamo,Audio-047-2026.wav,1.320,"Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+048,ok,buenas_tardes_amigos_me_llamo_daniel_y_soy_maestro,yes,yes,Kuali tiotlaquiltzin noyolicnihuan neh nimotoca neh nitemachtic,"Buenas tardes amigos, me llamo Daniel y soy maestro",buenas tardes amigos me llamo daniel y soy maestro | me llamo daniel y soy maestro,Audio-048-2026.wav,6.140,"Compound sentence (046 + 047 + 051). Only the whole sentence is a keyword so it cannot steal 'maestro' or 'amigos'.; Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+049,ok,buenos_dias_bien_gracias,yes,yes,"Quenon tomixtonaltitzino, kuali tlazohcamati","Buenos días, bien gracias.",buenos dias bien gracias | buenos | dias | bien | bien gracias,Audio-049-2026.wav,3.660,"'bien gracias' added as a keyword (judgment call): a child answering 'bien, gracias' should hear this clip rather than 068.; Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+050,ok,buenas_tardes,yes,yes,Tiotlactilzio,Buenas tardes,buenas tardes | buenas | tardes,Audio-050-2026.wav,1.320,"canonical for 'buenas_tardes'; duplicates: 053; Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+051,ok,soy_maestro,yes,yes,Neh nitemachtic,Soy maestro,soy maestro | maestro,Audio-051-2026.wav,1.140,"Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+052,ok,buenos_dias_gracias,yes,yes,"Quenon tomixtonalti kuali, tlazohcamati","Buenos días, gracias.",buenos dias gracias | buenos | dias,Audio-052-2026.wav,3.420,"Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+053,duplicate,buenas_tardes,,yes,Kuali tiotlaquiltzin,Buenas tardes,buenas tardes | buenas | tardes,Audio-053-2026.wav,1.560,"duplicate of 050 ('buenas_tardes'); Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+054,duplicate,buenas_noches,,yes,Kuali Yohualzintli,Buenas noches,buenas noches | buenas | noches,Audio-054-2026.wav,1.380,"duplicate of 018 ('buenas_noches'); Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+055,ok,buenos_dias_como_esta_usted,yes,yes,Quenon tomixtonaltitzino,"Buenos días, ¿Cómo está usted?",buenos dias como esta usted | buenos dias usted | buenos | dias | usted | buenos dias,Audio-055-2026.wav,1.780,"'buenos dias' added as a keyword (judgment call): its Náhuatl is the bare greeting, 049/052 carry extra words.; Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
+056,ok,quieto,yes,yes,Tlamatcanenemi,Quieto,quieto | quietos,Audio-056-2026.wav,1.420,
+057,ok,vende_tu_casa,yes,yes,Xiknamaka mokal,Vende tu casa,vende tu casa | vende casa,Audio-057-2026.wav,1.500,
+058,ok,tu_casa,yes,yes,Mokal,Tu casa,tu casa,Audio-058-2026.wav,0.800,
+059,ok,hagan_tortillas,yes,yes,Xitlaxcalchihuakan,Hagan tortillas,hagan tortillas | hagan,Audio-059-2026.wav,1.620,
+060,ok,tortillas,yes,yes,Tlaxcaltin,Tortillas,tortillas,Audio-060-2026.wav,0.940,
+061,ok,tortilla,yes,yes,Tlaxcali,Tortilla,tortilla,Audio-061-2026.wav,0.900,
+062,ok,te_quiero,yes,yes,Nimitsneki,Te quiero,te quiero,Audio-062-2026.wav,1.120,
+063,ok,cuenta_casas,yes,yes,Xikpoua kaltin,Cuenta casas,cuenta casas | cuenta,Audio-063-2026.wav,1.620,
+064,ok,cuenten_piedras,yes,yes,Xikpouakan temej,Cuenten piedras,cuenten piedras | cuenten,Audio-064-2026.wav,1.520,
+065,suspect,piedras,,no,Xikpouakan,Piedras,piedras,Audio-065-2026.wav,1.160,"SUSPECT: Label looks wrong: 'Xikpouakan' is 'cuenten' (see 064 'Xikpouakan temej' = 'cuenten piedras'), not 'piedras' (102 Tetl)."
+066,ok,come_conejo,yes,yes,Xikkua in tochtli,Come conejo,come conejo,Audio-066-2026.wav,1.580,
+067,ok,no_comas_el_mole,yes,yes,Amo xikkua in moli,No comas el mole,no comas el mole | comas mole | comas | mole,Audio-067-2026.wav,1.640,
+068,ok,gracias,yes,yes,Tlasojkamati  miek,Gracias,gracias | gracia,Audio-068-2026.wav,1.580,
+069,ok,salte,yes,yes,Xikisa,Salte!,salte | saltes,Audio-069-2026.wav,0.960,
+070,ok,duerme_aqui,yes,yes,Xicochi nikan,Duerme aquí,duerme aqui,Audio-070-2026.wav,1.220,
+071,ok,hagan_casas,yes,yes,Xikalchiuakan,Hagan casas,hagan casas | hagan,Audio-071-2026.wav,1.360,
+072,ok,vende,yes,yes,Xitlanamaka,Vende,vende | vendes,Audio-072-2026.wav,1.160,
+073,duplicate,sean_bienvenidos,,yes,Makuali xihualacan,Sean bienvenidos,sean bienvenidos | bienvenidos,Audio-073-2026.wav,1.540,duplicate of 032 ('sean_bienvenidos')
+074,ok,serpiente,yes,yes,Koatl,Serpiente,serpiente | serpientes,Audio-074-2026.wav,0.780,
+075,ok,conejo,yes,yes,Tochtli,Conejo,conejo | conejos,Audio-075-2026.wav,0.900,
+076,ok,pez,yes,yes,Michin,Pez,pez | peces | pescado,Audio-076-2026.wav,0.800,
+077,ok,cinco,yes,yes,Macuil,Cinco,cinco | cincos,Audio-077-2026.wav,0.880,
+078,ok,seis,yes,yes,Chicuace,Seis,seis | sei,Audio-078-2026.wav,1.500,
+079,ok,siete,yes,yes,Chicome,Siete,siete | sietes,Audio-079-2026.wav,0.900,
+080,ok,ocho,yes,yes,Chicueyi,Ocho,ocho | ochos,Audio-080-2026.wav,0.980,
+081,ok,nueve,yes,yes,Chignaui,Nueve,nueve | nueves,Audio-081-2026.wav,0.980,
+082,ok,diez,yes,yes,Huanmajtlaj,Diez,diez | dieces,Audio-082-2026.wav,1.140,
+083,ok,corazon,yes,yes,Yolotl,Corazón,corazon | corazones,Audio-083-2026.wav,0.840,
+084,ok,cuatro,yes,yes,Nahui,Cuatro,cuatro | cuatros,Audio-084-2026.wav,0.840,
+085,duplicate,agua,,yes,Atl,Agua,agua | aguas,Audio-085-2026.wav,1.252,duplicate of 029 ('agua')
+086,ok,libro,yes,yes,Amoxtli,Libro,libro | libros,Audio-086-2026.wav,0.940,
+087,duplicate,casa,,yes,Kali,Casa,casa | casas,Audio-087-2026.wav,0.740,duplicate of 034 ('casa')
+088,ok,clase_uno,yes,yes,Tlamachtili se,Clase uno,clase uno | clase,Audio-088-2026.wav,1.460,
+089,ok,abuela,yes,yes,Sijtli,Abuela,abuela | abuelas,Audio-089-2026.wav,0.920,
+090,duplicate,mujer,,yes,Siuatl,Mujer,mujer | mujeres,Audio-090-2026.wav,0.820,duplicate of 028 ('mujer')
+091,ok,abuelo,yes,yes,Koli,Abuelo,abuelo | abuelos,Audio-091-2026.wav,0.720,
+092,ok,alla_voy,yes,yes,Ompa nioj,Allá voy,alla voy | alla,Audio-092-2026.wav,1.040,
+093,ok,otra_vez,yes,yes,Okzepa,Otra vez,otra vez | vez,Audio-093-2026.wav,0.880,Also used as the fallback clip ('otra vez' = please say it again).
+094,ok,comal,yes,yes,Komali,Comal,comal | comales,Audio-094-2026.wav,0.780,
+095,ok,perro,yes,yes,Itskuintli,Perro,perro | perros,Audio-095-2026.wav,0.960,
+096,ok,venado,yes,yes,Masatl,Venado,venado | venados,Audio-096-2026.wav,0.760,
+097,ok,lazo,yes,yes,Mekatl,Lazo,lazo | lazos,Audio-097-2026.wav,0.800,
+098,ok,madre,yes,yes,Nantli,Madre,madre | madres | mama,Audio-098-2026.wav,0.780,
+099,ok,gusano,yes,yes,Ocuilin,Gusano,gusano | gusanos,Audio-099-2026.wav,0.920,
+100,ok,hijo,yes,yes,Pili,Hijo,hijo | hijos,Audio-100-2026.wav,0.820,
+101,ok,padre,yes,yes,Tajtli,Padre,padre | padres | papa,Audio-101-2026.wav,0.760,
+102,ok,piedra,yes,yes,Tetl,Piedra,piedra | piedras,Audio-102-2026.wav,0.620,
+103,ok,tecolote,yes,yes,Tekolotl,Tecolote,tecolote | tecolotes | buho,Audio-103-2026.wav,0.840,'buho' added as a synonym of tecolote.
+104,ok,iglesia,yes,yes,Teopantli,Iglesia,iglesia | iglesias,Audio-104-2026.wav,0.820,
+105,ok,petate,yes,yes,Petatl,Petate,petate | petates,Audio-105-2026.wav,0.780,
+106,ok,como_se_dice_ayudame_en_nahuatl,yes,yes,Ken moijtoa ika nawatlajtoli xinech palewi?,¿Cómo se dice ayudame en náhuatl?,como se dice ayudame en nahuatl,Audio-106-2026.wav,4.040,
+107,ok,como_se_dice_en_nahuatl,yes,yes,Ken moijtoa ika nawatlajtoli?,¿Cómo se dice en náhuatl?,como se dice en nahuatl,Audio-107-2026.wav,2.580,
+108,duplicate,asi_se_dice,,yes,Ijkon moijtoa,Así se dice,asi se dice | asi,Audio-108-2026.wav,1.500,duplicate of 017 ('asi_se_dice')
+109,ok,como_se_dice_te_amo_en_nahuatl,yes,yes,Ken moijtoa ika nawatlajtoli nimitstlasojtla?,¿Cómo se dice te amo en náhuatl?,como se dice te amo en nahuatl | amo,Audio-109-2026.wav,3.440,
+110,ok,vestido,yes,yes,Quemitl,Vestido,vestido | vestidos,Audio-110-2026.wav,0.780,
+111,ok,te_amo,yes,yes,Nimitstlasojtla,Te amo,te amo | amo,Audio-111-2026.wav,1.740,
+112,ok,guerrero,yes,yes,Yauh,Guerrero,guerrero | guerreros,Audio-112-2026.wav,1.060,
+113,ok,guayaba,yes,yes,Xalxokotl,Guayaba,guayaba | guayabas,Audio-113-2026.wav,1.240,
+114,ok,jitomate,yes,yes,Xitomatl,Jitomate,jitomate | jitomates | tomate,Audio-114-2026.wav,1.000,
+115,ok,arena,yes,yes,Xali,Arena,arena | arenas,Audio-115-2026.wav,0.940,
+116,ok,pronunciacion_en_nahuatl,yes,yes,Tenkixtilistli ika nawatlajtoli,Pronunciación en náhuatl,pronunciacion en nahuatl | pronunciacion,Audio-116-2026.wav,2.840,
+117,ok,cebolla,yes,yes,Xonakatl,Cebolla,cebolla | cebollas,Audio-117-2026.wav,1.260,
+118,ok,jabon,yes,yes,Xapo,Jabón,jabon | jabones,Audio-118-2026.wav,1.700,
+119,ok,mercado,yes,yes,Tiankistli,Mercado,mercado | mercados,Audio-119-2026.wav,1.180,
+120,ok,tierra,yes,yes,Tlali,Tierra,tierra | tierras,Audio-120-2026.wav,0.940,
+121,ok,mariposa,yes,yes,Papalotl,Mariposa,mariposa | mariposas,Audio-121-2026.wav,1.020,
+122,ok,plato,yes,yes,Kaxitl,Plato,plato | platos,Audio-122-2026.wav,0.860,
+123,missing-clip,no,,yes,Amo,No,no,,,no recording in audio/raw
+124,missing-clip,si,,yes,Kema,Si,si,,,no recording in audio/raw
+125,missing-clip,el_la_los_las,,yes,In,El/la/los/las,el la los las,,,no recording in audio/raw
+126,missing-clip,este_esta,,yes,Inin,Este/esta,este esta,,,no recording in audio/raw
+,unnumbered,,,,,Tlaolli,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Ce tlacatl oxonáhuac ipan milli,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Ce tlacatl oxonáhuac,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Opeuh tequiti cenca chicahuac,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Oquixitini in tlalmantli,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,oquitocmilhui in tlaolli,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Tequiti,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Tlacatl,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Tlatzihui,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Tlazinque,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Milli,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Ce tonatiuh,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Itik,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Iuan,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Ka,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Katej,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,¿Kampa?,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Nikan,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Ompa,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Se,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Ome,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Yeyi,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Naui,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,¿Kampa ka in atl?,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,¿Kampa atl?,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Atl nikan ka,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Ome itskuintli katej nikan,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Yeyi petatl ompa,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Mitztenaltitzino,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Ihuan ipan yohualli,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Noxochi amo xichoca,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Noxochi,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Amo xichoca nopampa,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Notlazohtzin,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,¿tlica xicochi?,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Amo xicochi pampa hica nican nicanneh,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Kenin nankatej axxan noyolikniwan?,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Ximokuitlawi,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Noyolikniwan,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Axxanninamechtlajpaloaika nochi pakilis,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Kenin nankatej axxan noyolikniwan,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Mi ek,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Miek tekitl,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Miekej yalkamej,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Onka timomati,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Amo xikilkawa monelwayo,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Noyolikniwan,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Mexicamej mexicanos,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Ma xikpiakan se kualitonal,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Tonal,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Tomexico yoliwe,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Kenin nonkatej  axxan,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Mitspaktia yolxalmej,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Mitspaktia yolxalmej,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Axxan nikuikas,,,,"text-only row in the document, no clip number"
+,unnumbered,,,,,Jkon moijtoa,,,,"text-only row in the document, no clip number"

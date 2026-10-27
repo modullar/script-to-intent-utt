@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Slow, run by hand: Whisper on recorded WAVs, then the matcher.
+       Deliberately NOT part of NahuatlIntent.sln so `dotnet test` at the root
+       stays under five seconds. Run with: dotnet test tests/Integration -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <!-- Run on any newer runtime too (e.g. a Mac with only .NET 10 installed). -->
+    <RollForward>Major</RollForward>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+    <RootNamespace>NahuatlIntent.Integration</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
+    <PackageReference Include="xunit" Version="2.9.3" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="3.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Intent\Intent.csproj" />
+    <ProjectReference Include="..\..\src\Demo\Demo.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\data\phrases.json" Link="data\phrases.json" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="sentences.csv" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="wavs\**\*.wav" LinkBase="wavs" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+</Project>

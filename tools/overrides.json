@@ -1,0 +1,61 @@
+{
+  "_comment": [
+    "Hand-maintained corrections applied by tools/build_db.py on top of the vocabulary document.",
+    "Every entry is echoed into review.csv so Sonia can see and change it.",
+    "Keys: fallback, unapproved, notes, intent, canonical, addKeywords, removeKeywords, removeGenerated, reRecorded.",
+    "Keywords are normalised (lowercase, no accents) when applied, so accents here are fine."
+  ],
+
+  "fallback": "093",
+
+  "unapproved": {
+    "020": "Label looks wrong: 'Ken moijtos ika nawatlajtoli' means 'how do you say ... in Náhuatl', not 'buenas noches'. Compare 016/107.",
+    "065": "Label looks wrong: 'Xikpouakan' is 'cuenten' (see 064 'Xikpouakan temej' = 'cuenten piedras'), not 'piedras' (102 Tetl)."
+  },
+
+  "notes": {
+    "093": "Also used as the fallback clip ('otra vez' = please say it again).",
+    "028": "Same word as 090 with modern spelling (Siwatl / Siuatl). Both kept, 028 is canonical.",
+    "049": "'bien gracias' added as a keyword (judgment call): a child answering 'bien, gracias' should hear this clip rather than 068.",
+    "055": "'buenos dias' added as a keyword (judgment call): its Náhuatl is the bare greeting, 049/052 carry extra words.",
+    "041": "'no llora' / 'no llore' added (judgment call): children conjugate loosely; both should reach 'no llores'.",
+    "103": "'buho' added as a synonym of tecolote.",
+    "048": "Compound sentence (046 + 047 + 051). Only the whole sentence is a keyword so it cannot steal 'maestro' or 'amigos'."
+  },
+
+  "reRecorded": {
+    "date": "2026-10-14",
+    "note": "Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker.",
+    "ids": ["001", "002", "003", "004", "005", "006", "016", "017", "026", "032",
+            "045", "046", "047", "048", "049", "050", "051", "052", "053", "054", "055"]
+  },
+
+  "intent": {},
+
+  "canonical": {
+    "buenas_noches": "018",
+    "mujer": "028",
+    "agua": "029",
+    "cerro": "031",
+    "casa": "034"
+  },
+
+  "addKeywords": {
+    "002": ["como estas", "estas", "hola"],
+    "041": ["no llora", "no llore"],
+    "049": ["bien gracias"],
+    "055": ["buenos dias"],
+    "076": ["peces", "pescado"],
+    "098": ["mama"],
+    "101": ["papa"],
+    "103": ["buho"],
+    "114": ["tomate"]
+  },
+
+  "removeKeywords": {},
+
+  "removeGenerated": ["048"],
+  "addKeywordsAfterRemove": {
+    "048": ["me llamo daniel y soy maestro"]
+  }
+}

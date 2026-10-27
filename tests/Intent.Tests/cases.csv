@@ -1,0 +1,27 @@
+# One case per line: Spanish text ; expected clip id (or "fallback").
+# Lines starting with # are ignored. Add rows freely; `dotnet test` runs them all.
+# Expected ids are the canonical clip of the intent (018 for buenas noches, not 045).
+cuantos perros hay ; 095
+buenas noches ; 018
+mi abuela ; 089
+me duele la cabeza ; fallback
+casa ; 034
+tu casa ; 058
+vende tu casa ; 057
+tortilla ; 061
+quiero tortillas ; 060
+duerme ; 023
+duerme aqui ; 070
+clase uno ; 088
+te amo ; 111
+porque te amo ; 010
+buenos dias ; 055
+buenas tardes amigos ; 046
+agua y tierra ; fallback
+como estas ; 002
+hagan casa ; 035
+como se dice casa en nahuatl ; 034
+como se dice te amo ; 111
+el elefante toca musica ; fallback
+mi bicicleta es rapida ; fallback
+zapato amarillo grande ; fallback

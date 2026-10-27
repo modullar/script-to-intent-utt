@@ -1,0 +1,14 @@
+# Ten sentences, recorded twice: once in a quiet room (wavs/quiet/NN.wav) and
+# once in a noisy room (wavs/noisy/NN.wav). Same file names in both folders.
+# Columns: file ; what you say ; expected clip id (or fallback)
+# Record each one with:  sox -d -r 16000 -c 1 -b 16 tests/Integration/wavs/quiet/01.wav
+01.wav ; buenas noches ; 018
+02.wav ; cuántos perros hay ; 095
+03.wav ; mi abuela ; 089
+04.wav ; quiero una tortilla ; 061
+05.wav ; vende tu casa ; 057
+06.wav ; cómo se dice te amo ; 111
+07.wav ; buenos días ; 055
+08.wav ; duerme aquí ; 070
+09.wav ; me duele la cabeza ; fallback
+10.wav ; ven aquí ; 026

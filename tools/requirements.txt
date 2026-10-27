@@ -1,0 +1,4 @@
+# Python side of script-to-intent-utt. ffmpeg and ffprobe must be on PATH as well
+# (brew install ffmpeg / apt install ffmpeg).
+numpy>=1.26
+pytest>=7.0

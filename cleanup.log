@@ -1,0 +1,123 @@
+timestamp	name	rawDurationS	cleanDurationS	startS	endS	inputLufs	outputLufs	gainDb	method	flag	note
+2026-10-27T15:06:48Z	Audio-001-2026.mp3	4.545	3.380	0.390	3.770	-18.1	-16.1	2.1	ebur128-gain+limiter		
+2026-10-27T15:06:48Z	Audio-002-2026.mp3	3.971	2.100	0.770	2.870	-18.9	-16.0	2.9	ebur128-gain+limiter		
+2026-10-27T15:06:48Z	Audio-003-2026.mp3	1.855	1.060	0.410	1.470	-25.1	-16.0	9.1	ebur128-gain+limiter		
+2026-10-27T15:06:49Z	Audio-004-2026.mp3	3.239	1.840	0.530	2.370	-24.0	-16.4	8.0	ebur128-gain+limiter		
+2026-10-27T15:06:49Z	Audio-005-2026.mp3	4.049	3.459	0.590	4.049	-23.8	-16.5	7.8	ebur128-gain+limiter		
+2026-10-27T15:06:49Z	Audio-006-2026.mp3	2.247	1.500	0.430	1.930	-18.5	-16.5	2.5	ebur128-gain+limiter		
+2026-10-27T15:06:49Z	Audio-007-2026.mp3	1.698	0.740	0.470	1.210	-15.9	-16.0	-0.1	ebur128-gain		
+2026-10-27T15:06:50Z	Audio-008-2026.mp3	1.855	0.720	0.310	1.030	-17.7	-16.3	1.7	ebur128-gain+limiter		
+2026-10-27T15:06:50Z	Audio-009-2026.mp3	1.855	0.760	0.450	1.210	-18.9	-16.0	2.9	ebur128-gain+limiter		
+2026-10-27T15:06:50Z	Audio-010-2026.mp3	3.474	1.660	0.950	2.610	-17.1	-16.4	1.1	ebur128-gain+limiter		
+2026-10-27T15:06:50Z	Audio-011-2026.mp3	2.612	1.580	0.590	2.170	-16.3	-16.0	0.3	ebur128-gain		
+2026-10-27T15:06:51Z	Audio-012-2026.mp3	3.500	1.980	0.750	2.730	-16.7	-16.1	0.7	ebur128-gain+limiter		
+2026-10-27T15:06:51Z	Audio-013-2026.mp3	2.691	1.440	0.590	2.030	-18.0	-16.0	2.0	ebur128-gain		
+2026-10-27T15:06:51Z	Audio-014-2026.mp3	6.504	5.140	0.730	5.870	-20.0	-16.1	4.0	ebur128-gain+limiter		
+2026-10-27T15:06:52Z	Audio-015-2026.mp3	6.844	4.060	1.110	5.170	-21.9	-16.2	6.8	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:06:52Z	Audio-016-2026.mp3	5.042	3.840	0.810	4.650	-17.5	-16.1	1.5	ebur128-gain+limiter		
+2026-10-27T15:06:52Z	Audio-017-2026.mp3	2.351	1.400	0.470	1.870	-18.8	-16.2	2.8	ebur128-gain+limiter		
+2026-10-27T15:06:53Z	Audio-018-2026.mp3	2.090	1.120	0.530	1.650	-15.4	-16.0	-0.6	ebur128-gain		
+2026-10-27T15:06:53Z	Audio-019-2026.mp3	2.743	1.280	0.770	2.050	-21.5	-15.9	5.5	ebur128-gain		
+2026-10-27T15:06:53Z	Audio-020-2026.mp3	3.709	2.380	0.470	2.850	-20.1	-16.3	4.1	ebur128-gain+limiter		
+2026-10-27T15:06:53Z	Audio-021-2026.mp3	2.429	1.600	0.490	2.090	-16.2	-16.1	0.2	ebur128-gain+limiter		
+2026-10-27T15:06:54Z	Audio-022-2026.mp3	1.776	1.380	0.250	1.630	-15.7	-16.0	-0.3	ebur128-gain		
+2026-10-27T15:06:54Z	Audio-023-2026.mp3	1.776	0.980	0.350	1.330	-19.0	-16.3	4.0	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:06:54Z	Audio-024-2026.mp3	2.351	1.740	0.370	2.110	-17.5	-16.4	1.5	ebur128-gain+limiter		
+2026-10-27T15:06:54Z	Audio-025-2026.mp3	1.855	0.860	0.450	1.310	-14.4	-16.0	-0.7	ebur128-gain		1 correction pass(es) after limiter
+2026-10-27T15:06:55Z	Audio-026-2026.mp3	2.090	1.420	0.350	1.770	-15.2	-16.0	-0.8	ebur128-gain		
+2026-10-27T15:06:55Z	Audio-027-2026.mp3	1.855	1.425	0.430	1.855	-22.3	-17.2	10.1	ebur128-gain+limiter		3 correction pass(es) after limiter
+2026-10-27T15:06:56Z	Audio-028-2026.mp3	1.515	0.920	0.350	1.270	-14.3	-16.0	-1.0	ebur128-gain		1 correction pass(es) after limiter
+2026-10-27T15:06:56Z	Audio-029-2026.mp3	1.620	0.680	0.470	1.150	-20.9	-17.1	11.0	ebur128-gain+limiter		3 correction pass(es) after limiter
+2026-10-27T15:06:57Z	Audio-030-2026.mp3	1.620	0.780	0.390	1.170	-17.2	-16.0	1.2	ebur128-gain+limiter		
+2026-10-27T15:06:57Z	Audio-031-2026.mp3	1.724	0.840	0.330	1.170	-17.7	-16.4	2.4	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:06:57Z	Audio-032-2026.mp3	2.038	1.600	0.110	1.710	-17.6	-16.4	1.6	ebur128-gain+limiter		
+2026-10-27T15:06:58Z	Audio-033-2026.mp3	1.384	0.980	0.150	1.130	-18.7	-16.5	3.6	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:06:58Z	Audio-034-2026.mp3	1.724	0.720	0.450	1.170	-17.3	-16.3	1.9	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:06:58Z	Audio-035-2026.mp3	2.038	1.800	0.110	1.910	-17.5	-16.5	1.5	ebur128-gain+limiter		
+2026-10-27T15:06:59Z	Audio-036-2026.mp3	1.724	1.160	0.370	1.530	-18.6	-16.5	3.8	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:06:59Z	Audio-037-2026.mp3	1.646	1.120	0.310	1.430	-15.3	-16.5	-0.7	ebur128-gain		
+2026-10-27T15:06:59Z	Audio-038-2026.mp3	1.541	1.120	0.110	1.230	-18.3	-16.3	2.9	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:07:00Z	Audio-039-2026.mp3	1.724	1.140	0.310	1.450	-14.1	-16.0	-1.9	ebur128-gain		
+2026-10-27T15:07:00Z	Audio-040-2026.mp3	2.038	1.800	0.110	1.910	-17.5	-16.5	1.5	ebur128-gain+limiter		
+2026-10-27T15:07:00Z	Audio-041-2026.mp3	2.534	1.400	0.370	1.770	-18.1	-16.3	2.1	ebur128-gain+limiter		
+2026-10-27T15:07:01Z	Audio-042-2026.mp3	1.384	0.980	0.150	1.130	-18.7	-16.5	3.6	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:07:01Z	Audio-043-2026.mp3	1.463	1.120	0.190	1.310	-15.2	-16.0	-0.8	ebur128-gain		
+2026-10-27T15:07:01Z	Audio-044-2026.mp3	1.724	1.380	0.170	1.550	-14.6	-16.0	-1.4	ebur128-gain		
+2026-10-27T15:07:01Z	Audio-045-2026.mp3	3.004	1.140	0.770	1.910	-19.9	-16.0	3.9	ebur128-gain		
+2026-10-27T15:07:02Z	Audio-046-2026.mp3	3.997	2.680	0.530	3.210	-22.3	-16.4	6.3	ebur128-gain+limiter		
+2026-10-27T15:07:02Z	Audio-047-2026.mp3	2.769	1.320	0.650	1.970	-20.1	-16.2	4.1	ebur128-gain+limiter		
+2026-10-27T15:07:02Z	Audio-048-2026.mp3	7.889	6.140	0.710	6.850	-23.2	-16.4	7.2	ebur128-gain+limiter		
+2026-10-27T15:07:03Z	Audio-049-2026.mp3	5.695	3.660	1.030	4.690	-23.2	-16.2	7.9	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:07:03Z	Audio-050-2026.mp3	2.194	1.320	0.270	1.590	-18.4	-16.0	2.4	ebur128-gain+limiter		
+2026-10-27T15:07:03Z	Audio-051-2026.mp3	2.847	1.140	0.710	1.850	-22.4	-16.1	6.4	ebur128-gain+limiter		
+2026-10-27T15:07:04Z	Audio-052-2026.mp3	4.075	3.420	0.390	3.810	-20.3	-16.4	4.3	ebur128-gain+limiter		
+2026-10-27T15:07:04Z	Audio-053-2026.mp3	3.109	1.560	0.570	2.130	-24.6	-16.3	9.4	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:07:04Z	Audio-054-2026.mp3	3.004	1.380	0.830	2.210	-20.9	-16.2	4.9	ebur128-gain+limiter		
+2026-10-27T15:07:05Z	Audio-055-2026.mp3	2.926	1.780	0.570	2.350	-25.7	-16.2	9.7	ebur128-gain+limiter		
+2026-10-27T15:07:05Z	Audio-056-2026.mp3	2.351	1.420	0.490	1.910	-16.9	-16.3	0.9	ebur128-gain+limiter		
+2026-10-27T15:07:05Z	Audio-057-2026.mp3	2.247	1.500	0.390	1.890	-16.1	-16.0	0.1	ebur128-gain+limiter		
+2026-10-27T15:07:06Z	Audio-058-2026.mp3	1.933	0.800	0.550	1.350	-19.7	-16.5	5.1	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:07:06Z	Audio-059-2026.mp3	2.168	1.620	0.170	1.790	-17.8	-16.2	1.8	ebur128-gain+limiter		
+2026-10-27T15:07:06Z	Audio-060-2026.mp3	1.855	0.940	0.670	1.610	-22.2	-16.3	6.8	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:07:07Z	Audio-061-2026.mp3	1.855	0.900	0.770	1.670	-18.9	-16.5	2.9	ebur128-gain+limiter		
+2026-10-27T15:07:07Z	Audio-062-2026.mp3	2.168	1.120	0.730	1.850	-13.8	-16.0	-2.2	ebur128-gain		
+2026-10-27T15:07:07Z	Audio-063-2026.mp3	2.011	1.620	0.230	1.850	-15.5	-16.0	-0.5	ebur128-gain		
+2026-10-27T15:07:07Z	Audio-064-2026.mp3	1.933	1.520	0.110	1.630	-17.9	-16.3	1.9	ebur128-gain+limiter		
+2026-10-27T15:07:08Z	Audio-065-2026.mp3	1.280	1.160	0.070	1.230	-17.8	-16.4	1.8	ebur128-gain+limiter		
+2026-10-27T15:07:08Z	Audio-066-2026.mp3	2.247	1.580	0.410	1.990	-22.5	-16.3	7.3	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:07:08Z	Audio-067-2026.mp3	2.194	1.640	0.310	1.950	-14.9	-16.0	-1.1	ebur128-gain		
+2026-10-27T15:07:08Z	Audio-068-2026.mp3	2.194	1.580	0.270	1.850	-17.6	-16.1	1.6	ebur128-gain+limiter		
+2026-10-27T15:07:09Z	Audio-069-2026.mp3	1.802	0.960	0.390	1.350	-15.0	-16.0	-1.0	ebur128-gain		
+2026-10-27T15:07:09Z	Audio-070-2026.mp3	1.463	1.220	0.150	1.370	-18.1	-16.0	2.1	ebur128-gain		
+2026-10-27T15:07:09Z	Audio-071-2026.mp3	1.855	1.360	0.310	1.670	-18.1	-16.4	3.0	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:07:10Z	Audio-072-2026.mp3	1.881	1.160	0.550	1.710	-16.4	-16.0	0.4	ebur128-gain		
+2026-10-27T15:07:10Z	Audio-073-2026.mp3	2.116	1.540	0.410	1.950	-17.6	-16.4	1.6	ebur128-gain+limiter		
+2026-10-27T15:07:10Z	Audio-074-2026.mp3	1.802	0.780	0.710	1.490	-16.5	-15.9	0.5	ebur128-gain+limiter		
+2026-10-27T15:07:10Z	Audio-075-2026.mp3	1.646	0.900	0.570	1.470	-20.7	-16.5	6.1	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:07:11Z	Audio-076-2026.mp3	1.541	0.800	0.570	1.370	-17.9	-16.3	1.9	ebur128-gain+limiter		
+2026-10-27T15:07:11Z	Audio-077-2026.mp3	1.802	0.880	0.790	1.670	-19.2	-16.3	3.9	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:07:11Z	Audio-078-2026.mp3	1.959	1.500	0.110	1.610	-19.2	-16.5	4.3	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:07:12Z	Audio-079-2026.mp3	1.959	0.900	0.770	1.670	-17.9	-16.3	2.5	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:07:12Z	Audio-080-2026.mp3	1.541	0.980	0.490	1.470	-17.4	-16.2	1.4	ebur128-gain+limiter		
+2026-10-27T15:07:12Z	Audio-081-2026.mp3	1.802	0.980	0.530	1.510	-17.0	-16.0	1.0	ebur128-gain		
+2026-10-27T15:07:13Z	Audio-082-2026.mp3	1.959	1.140	0.590	1.730	-16.7	-16.2	0.7	ebur128-gain+limiter		
+2026-10-27T15:07:13Z	Audio-083-2026.mp3	1.881	0.840	0.790	1.630	-17.2	-16.2	1.2	ebur128-gain+limiter		
+2026-10-27T15:07:13Z	Audio-084-2026.mp3	1.646	0.840	0.590	1.430	-17.4	-16.4	1.4	ebur128-gain+limiter		
+2026-10-27T15:07:13Z	Audio-085-2026.mp3	1.802	1.252	0.550	1.802	-21.1	-16.5	6.7	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:07:14Z	Audio-086-2026.mp3	1.646	0.940	0.490	1.430	-18.0	-16.4	2.7	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:07:14Z	Audio-087-2026.mp3	1.541	0.740	0.630	1.370	-19.2	-16.4	5.0	ebur128-gain+limiter		2 correction pass(es) after limiter
+2026-10-27T15:07:15Z	Audio-088-2026.mp3	2.586	1.460	0.630	2.090	-16.5	-16.2	0.5	ebur128-gain+limiter		
+2026-10-27T15:07:15Z	Audio-089-2026.mp3	1.802	0.920	0.510	1.430	-19.7	-16.3	4.7	ebur128-gain+limiter		1 correction pass(es) after limiter
+2026-10-27T15:07:15Z	Audio-090-2026.mp3	1.724	0.820	0.550	1.370	-17.2	-16.3	4.2	ebur128-gain		1 correction pass(es) after limiter
+2026-10-27T15:07:16Z	Audio-091-2026.mp3	1.463	0.720	0.530	1.250	-17.6	-16.3	5.2	ebur128-gain		2 correction pass(es) after limiter
+2026-10-27T15:07:16Z	Audio-092-2026.mp3	2.038	1.040	0.430	1.470	-18.5	-16.5	5.5	ebur128-gain		1 correction pass(es) after limiter
+2026-10-27T15:07:16Z	Audio-093-2026.mp3	1.724	0.880	0.190	1.070	-17.3	-16.2	4.3	ebur128-gain		1 correction pass(es) after limiter
+2026-10-27T15:07:17Z	Audio-094-2026.mp3	1.463	0.780	0.430	1.210	-15.4	-16.0	2.4	ebur128-gain		1 correction pass(es) after limiter
+2026-10-27T15:07:17Z	Audio-095-2026.mp3	1.881	0.960	0.170	1.130	-20.7	-16.0	7.7	ebur128-gain		1 correction pass(es) after limiter
+2026-10-27T15:07:18Z	Audio-096-2026.mp3	1.646	0.760	0.350	1.110	-18.2	-16.1	5.2	ebur128-gain		1 correction pass(es) after limiter
+2026-10-27T15:07:18Z	Audio-097-2026.mp3	1.463	0.800	0.250	1.050	-16.5	-16.1	3.5	ebur128-gain		1 correction pass(es) after limiter
+2026-10-27T15:07:18Z	Audio-098-2026.mp3	1.228	0.780	0.150	0.930	-18.9	-16.3	7.8	ebur128-gain+limiter		3 correction pass(es) after limiter
+2026-10-27T15:07:19Z	Audio-099-2026.mp3	1.463	0.920	0.410	1.330	-15.0	-16.0	2.0	ebur128-gain		1 correction pass(es) after limiter
+2026-10-27T15:07:20Z	Audio-100-2026.mp3	2.534	0.820	1.350	2.170	-15.2	-16.0	3.0	ebur128-gain	LISTEN	1 correction pass(es) after limiter
+2026-10-27T15:07:20Z	Audio-101-2026.mp3	1.881	0.760	0.670	1.430	-18.9	-16.5	5.9	ebur128-gain		1 correction pass(es) after limiter
+2026-10-27T15:07:20Z	Audio-102-2026.mp3	2.194	0.620	1.150	1.770	-18.2	-16.7	7.4	ebur128-gain	LISTEN	3 correction pass(es) after limiter
+2026-10-27T15:07:21Z	Audio-103-2026.mp3	1.646	0.840	0.410	1.250	-15.5	-16.0	2.5	ebur128-gain		1 correction pass(es) after limiter
+2026-10-27T15:07:21Z	Audio-104-2026.mp3	1.646	0.820	0.390	1.210	-19.0	-16.5	6.0	ebur128-gain		1 correction pass(es) after limiter
+2026-10-27T15:07:22Z	Audio-105-2026.mp3	1.541	0.780	0.250	1.030	-19.0	-16.5	5.8	ebur128-gain		1 correction pass(es) after limiter
+2026-10-27T15:07:22Z	Audio-106-2026.mp3	4.937	4.040	0.430	4.470	-16.4	-16.1	0.4	ebur128-gain+limiter		
+2026-10-27T15:07:22Z	Audio-107-2026.mp3	3.631	2.580	0.870	3.450	-15.1	-16.0	-0.9	ebur128-gain		
+2026-10-27T15:07:23Z	Audio-108-2026.mp3	2.090	1.500	0.510	2.010	-15.1	-16.0	-0.9	ebur128-gain		
+2026-10-27T15:07:23Z	Audio-109-2026.mp3	4.206	3.440	0.410	3.850	-16.5	-16.1	0.5	ebur128-gain+limiter		
+2026-10-27T15:07:23Z	Audio-110-2026.mp3	2.168	0.780	0.530	1.310	-16.9	-16.0	0.9	ebur128-gain+limiter		
+2026-10-27T15:07:23Z	Audio-111-2026.mp3	2.821	1.740	0.990	2.730	-14.2	-16.0	-1.8	ebur128-gain		
+2026-10-27T15:07:24Z	Audio-112-2026.mp3	2.664	1.060	1.110	2.170	-16.9	-16.1	0.9	ebur128-gain+limiter		
+2026-10-27T15:07:24Z	Audio-113-2026.mp3	2.011	1.240	0.450	1.690	-15.1	-16.0	-0.9	ebur128-gain		
+2026-10-27T15:07:24Z	Audio-114-2026.mp3	2.247	1.000	1.070	2.070	-17.3	-16.2	1.3	ebur128-gain+limiter		
+2026-10-27T15:07:24Z	Audio-115-2026.mp3	1.698	0.940	0.570	1.510	-17.3	-16.0	1.3	ebur128-gain+limiter		
+2026-10-27T15:07:25Z	Audio-116-2026.mp3	5.904	2.840	1.130	3.970	-15.5	-16.0	-0.5	ebur128-gain		
+2026-10-27T15:07:25Z	Audio-117-2026.mp3	2.090	1.260	0.490	1.750	-15.5	-15.9	-0.5	ebur128-gain		
+2026-10-27T15:07:25Z	Audio-118-2026.mp3	2.586	1.700	0.470	2.170	-16.1	-16.1	0.1	ebur128-gain+limiter		
+2026-10-27T15:07:26Z	Audio-119-2026.mp3	2.090	1.180	0.470	1.650	-16.8	-16.4	0.8	ebur128-gain+limiter		
+2026-10-27T15:07:26Z	Audio-120-2026.mp3	2.247	0.940	0.990	1.930	-19.2	-16.3	5.0	ebur128-gain+limiter		2 correction pass(es) after limiter
+2026-10-27T15:07:26Z	Audio-121-2026.mp3	1.515	1.020	0.130	1.150	-17.9	-16.4	1.9	ebur128-gain+limiter		
+2026-10-27T15:07:27Z	Audio-122-2026.mp3	1.855	0.860	0.630	1.490	-17.4	-16.2	1.4	ebur128-gain+limiter		

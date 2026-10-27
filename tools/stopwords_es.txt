@@ -1,0 +1,82 @@
+# Spanish stopwords for keyword generation (tools/build_db.py) and for the
+# near-miss pass in the C# matcher (copied into data/phrases.json).
+# One word per line, lowercase, no accents. Lines starting with # are ignored.
+#
+# Not stopwords on purpose: bien (049), usted (055), estan (001/002), asi (017),
+# ven (026), alla (092), vez (093), and the command verbs (lava, corta, guarda,
+# deja, cuenta, cuenten, vende, coman, vivan, duerme, llora).
+
+# articles, prepositions, conjunctions, clitics
+el
+la
+los
+las
+un
+una
+unos
+unas
+de
+del
+al
+a
+en
+con
+por
+para
+y
+o
+e
+que
+se
+te
+me
+mi
+mis
+tu
+tus
+su
+sus
+es
+esta
+este
+esto
+eso
+ya
+lo
+le
+les
+como
+si
+
+# words that would otherwise hijack a sentence (see README, "keyword rules")
+no
+dice
+nahuatl
+quiero
+gusta
+gustan
+soy
+son
+sean
+porque
+pero
+todo
+otra
+hoy
+voy
+aqui
+come
+
+# frames children use; no effect on the current vocabulary
+hay
+cuantos
+cuantas
+donde
+dame
+tengo
+estoy
+muy
+mucho
+muchos
+muchas
+favor
