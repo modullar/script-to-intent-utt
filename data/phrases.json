@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T14:48:58Z",
+  "generatedAt": "2026-10-27T15:07:36Z",
   "source": "Vocabulario_nahuatl.docx",
   "fallbackIntent": "fallback",
   "stopwordsEs": [
@@ -87,7 +87,7 @@
       "nahuatl": "¿Kenin nonkatej axxan noyolikniwan?",
       "spanish": "¿Cómo están mis amigos?",
       "clip": "Audio-001-2026.wav",
-      "durationS": 0.0,
+      "durationS": 3.38,
       "canonical": true,
       "approved": true,
       "notes": "Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
@@ -105,7 +105,7 @@
       "nahuatl": "¿Kenin nonkatej axxan?",
       "spanish": "¿Cómo están?",
       "clip": "Audio-002-2026.wav",
-      "durationS": 0.0,
+      "durationS": 2.1,
       "canonical": true,
       "approved": true,
       "notes": "Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
@@ -119,7 +119,7 @@
       "nahuatl": "¿Mitspaktia?",
       "spanish": "¿Te gusta?",
       "clip": "Audio-003-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.06,
       "canonical": true,
       "approved": true,
       "notes": "Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
@@ -134,7 +134,7 @@
       "nahuatl": "¿Mitspaktia timijtotis?",
       "spanish": "¿Te gusta bailar?",
       "clip": "Audio-004-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.84,
       "canonical": true,
       "approved": true,
       "notes": "Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
@@ -149,7 +149,7 @@
       "nahuatl": "¿Mitspaktia yolkalmej?",
       "spanish": "¿Te gustan los animales?",
       "clip": "Audio-005-2026.wav",
-      "durationS": 0.0,
+      "durationS": 3.459,
       "canonical": true,
       "approved": true,
       "notes": "Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
@@ -164,7 +164,7 @@
       "nahuatl": "Axxan nikuikas",
       "spanish": "Hoy cantaré",
       "clip": "Audio-006-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.5,
       "canonical": true,
       "approved": true,
       "notes": "Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
@@ -178,7 +178,7 @@
       "nahuatl": "Se",
       "spanish": "Uno",
       "clip": "Audio-007-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.74,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -192,7 +192,7 @@
       "nahuatl": "Ome",
       "spanish": "Dos",
       "clip": "Audio-008-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.72,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -207,7 +207,7 @@
       "nahuatl": "Yeyi",
       "spanish": "Tres",
       "clip": "Audio-009-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.76,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -222,7 +222,7 @@
       "nahuatl": "Pampa nimitstlasojtla",
       "spanish": "Porque te amo",
       "clip": "Audio-010-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.66,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -239,7 +239,7 @@
       "nahuatl": "Xikiyewa in xochitl",
       "spanish": "Guarda esta flor",
       "clip": "Audio-011-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.58,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -255,7 +255,7 @@
       "nahuatl": "Xikiyewan ipan moyolo",
       "spanish": "Guárdala  en tu corazón",
       "clip": "Audio-012-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.98,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -269,7 +269,7 @@
       "nahuatl": "Ica nochi noyolo",
       "spanish": "Con todo mi corazón",
       "clip": "Audio-013-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.44,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -324,7 +324,7 @@
       "nahuatl": "Ken moijtoa ika nawatlajtolikuali yowal",
       "spanish": "¿Cómo se dice buenas noches?",
       "clip": "Audio-016-2026.wav",
-      "durationS": 0.0,
+      "durationS": 3.84,
       "canonical": true,
       "approved": true,
       "notes": "Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
@@ -339,7 +339,7 @@
       "nahuatl": "Ikon moijtoa",
       "spanish": "Así se dice",
       "clip": "Audio-017-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.4,
       "canonical": true,
       "approved": true,
       "notes": "canonical for 'asi_se_dice'; duplicates: 108; Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
@@ -355,7 +355,7 @@
       "nahuatl": "Kuali yowal",
       "spanish": "Buenas noches",
       "clip": "Audio-018-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.12,
       "canonical": true,
       "approved": true,
       "notes": "canonical for 'buenas_noches'; duplicates: 045, 054"
@@ -372,7 +372,7 @@
       "nahuatl": "Amo ximomauti",
       "spanish": "No tengas miedo",
       "clip": "Audio-019-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.28,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -388,7 +388,7 @@
       "nahuatl": "Ken moijtos ika nawatlajtoli",
       "spanish": "Buenas noches",
       "clip": "Audio-020-2026.wav",
-      "durationS": 0.0,
+      "durationS": 2.38,
       "canonical": false,
       "approved": false,
       "notes": "SUSPECT: Label looks wrong: 'Ken moijtos ika nawatlajtoli' means 'how do you say ... in Náhuatl', not 'buenas noches'. Compare 016/107."
@@ -405,7 +405,7 @@
       "nahuatl": "Xikteki se Xochitl",
       "spanish": "Corta una flor",
       "clip": "Audio-021-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.6,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -420,7 +420,7 @@
       "nahuatl": "Xinechpaleui",
       "spanish": "Ayúdame",
       "clip": "Audio-022-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.38,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -435,7 +435,7 @@
       "nahuatl": "Xicochi",
       "spanish": "Duerme",
       "clip": "Audio-023-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.98,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -451,7 +451,7 @@
       "nahuatl": "Xikpaka in komitl",
       "spanish": "Lava la olla",
       "clip": "Audio-024-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.74,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -466,7 +466,7 @@
       "nahuatl": "komitl",
       "spanish": "Olla",
       "clip": "Audio-025-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.86,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -481,7 +481,7 @@
       "nahuatl": "Xiuala nikan",
       "spanish": "Ven aquí",
       "clip": "Audio-026-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.42,
       "canonical": true,
       "approved": true,
       "notes": "Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
@@ -496,7 +496,7 @@
       "nahuatl": "Tlacatl",
       "spanish": "Hombre",
       "clip": "Audio-027-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.425,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -511,7 +511,7 @@
       "nahuatl": "Siwatl",
       "spanish": "Mujer",
       "clip": "Audio-028-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.92,
       "canonical": true,
       "approved": true,
       "notes": "canonical for 'mujer'; duplicates: 090; Same word as 090 with modern spelling (Siwatl / Siuatl). Both kept, 028 is canonical."
@@ -526,7 +526,7 @@
       "nahuatl": "Atl",
       "spanish": "Agua",
       "clip": "Audio-029-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.68,
       "canonical": true,
       "approved": true,
       "notes": "canonical for 'agua'; duplicates: 085"
@@ -541,7 +541,7 @@
       "nahuatl": "Tocatl",
       "spanish": "Araña",
       "clip": "Audio-030-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.78,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -556,7 +556,7 @@
       "nahuatl": "Tepetl",
       "spanish": "Cerro",
       "clip": "Audio-031-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.84,
       "canonical": true,
       "approved": true,
       "notes": "canonical for 'cerro'; duplicates: 033"
@@ -571,7 +571,7 @@
       "nahuatl": "Ma kuali xiualakan",
       "spanish": "Sean bienvenidos",
       "clip": "Audio-032-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.6,
       "canonical": true,
       "approved": true,
       "notes": "canonical for 'sean_bienvenidos'; duplicates: 073; Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
@@ -586,7 +586,7 @@
       "nahuatl": "Tepetl",
       "spanish": "Cerro",
       "clip": "Audio-033-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.98,
       "canonical": false,
       "approved": true,
       "notes": "duplicate of 031 ('cerro')"
@@ -601,7 +601,7 @@
       "nahuatl": "Kali",
       "spanish": "Casa",
       "clip": "Audio-034-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.72,
       "canonical": true,
       "approved": true,
       "notes": "canonical for 'casa'; duplicates: 087"
@@ -617,7 +617,7 @@
       "nahuatl": "Xi K chigua kan se kali",
       "spanish": "Hagan una casa",
       "clip": "Audio-035-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.8,
       "canonical": true,
       "approved": true,
       "notes": "canonical for 'hagan_una_casa'; duplicates: 040"
@@ -632,7 +632,7 @@
       "nahuatl": "Xi tlakua kan",
       "spanish": "Coman",
       "clip": "Audio-036-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.16,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -647,7 +647,7 @@
       "nahuatl": "Xi nemi",
       "spanish": "Vivan",
       "clip": "Audio-037-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.12,
       "canonical": true,
       "approved": true,
       "notes": "canonical for 'vivan'; duplicates: 039"
@@ -662,7 +662,7 @@
       "nahuatl": "Xi tlakaua",
       "spanish": "Deja eso",
       "clip": "Audio-038-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.12,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -677,7 +677,7 @@
       "nahuatl": "Xi nemi kan",
       "spanish": "Vivan",
       "clip": "Audio-039-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.14,
       "canonical": false,
       "approved": true,
       "notes": "duplicate of 037 ('vivan')"
@@ -693,7 +693,7 @@
       "nahuatl": "Xi k chiua kan se kali",
       "spanish": "Hagan una casa",
       "clip": "Audio-040-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.8,
       "canonical": false,
       "approved": true,
       "notes": "duplicate of 035 ('hagan_una_casa')"
@@ -710,7 +710,7 @@
       "nahuatl": "Amo xi choca",
       "spanish": "No llores",
       "clip": "Audio-041-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.4,
       "canonical": true,
       "approved": true,
       "notes": "'no llora' / 'no llore' added (judgment call): children conjugate loosely; both should reach 'no llores'."
@@ -725,7 +725,7 @@
       "nahuatl": "Altepetl",
       "spanish": "Pueblo",
       "clip": "Audio-042-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.98,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -740,7 +740,7 @@
       "nahuatl": "Xichoka",
       "spanish": "Llora",
       "clip": "Audio-043-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.12,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -755,7 +755,7 @@
       "nahuatl": "Xi nenemi  kan",
       "spanish": "Camina",
       "clip": "Audio-044-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.38,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -852,7 +852,7 @@
       "nahuatl": "Tiotlactilzio",
       "spanish": "Buenas tardes",
       "clip": "Audio-050-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.32,
       "canonical": true,
       "approved": true,
       "notes": "canonical for 'buenas_tardes'; duplicates: 053; Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
@@ -915,7 +915,7 @@
       "nahuatl": "Kuali Yohualzintli",
       "spanish": "Buenas noches",
       "clip": "Audio-054-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.38,
       "canonical": false,
       "approved": true,
       "notes": "duplicate of 018 ('buenas_noches'); Replaced on Drive on 2026-10-14; matches the Toño_Vocabulario list, i.e. a second speaker."
@@ -949,7 +949,7 @@
       "nahuatl": "Tlamatcanenemi",
       "spanish": "Quieto",
       "clip": "Audio-056-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.42,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -964,7 +964,7 @@
       "nahuatl": "Xiknamaka mokal",
       "spanish": "Vende tu casa",
       "clip": "Audio-057-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.5,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -978,7 +978,7 @@
       "nahuatl": "Mokal",
       "spanish": "Tu casa",
       "clip": "Audio-058-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.8,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -993,7 +993,7 @@
       "nahuatl": "Xitlaxcalchihuakan",
       "spanish": "Hagan tortillas",
       "clip": "Audio-059-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.62,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1007,7 +1007,7 @@
       "nahuatl": "Tlaxcaltin",
       "spanish": "Tortillas",
       "clip": "Audio-060-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.94,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1021,7 +1021,7 @@
       "nahuatl": "Tlaxcali",
       "spanish": "Tortilla",
       "clip": "Audio-061-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.9,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1035,7 +1035,7 @@
       "nahuatl": "Nimitsneki",
       "spanish": "Te quiero",
       "clip": "Audio-062-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.12,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1050,7 +1050,7 @@
       "nahuatl": "Xikpoua kaltin",
       "spanish": "Cuenta casas",
       "clip": "Audio-063-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.62,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1065,7 +1065,7 @@
       "nahuatl": "Xikpouakan temej",
       "spanish": "Cuenten piedras",
       "clip": "Audio-064-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.52,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1079,7 +1079,7 @@
       "nahuatl": "Xikpouakan",
       "spanish": "Piedras",
       "clip": "Audio-065-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.16,
       "canonical": false,
       "approved": false,
       "notes": "SUSPECT: Label looks wrong: 'Xikpouakan' is 'cuenten' (see 064 'Xikpouakan temej' = 'cuenten piedras'), not 'piedras' (102 Tetl)."
@@ -1093,7 +1093,7 @@
       "nahuatl": "Xikkua in tochtli",
       "spanish": "Come conejo",
       "clip": "Audio-066-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.58,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1110,7 +1110,7 @@
       "nahuatl": "Amo xikkua in moli",
       "spanish": "No comas el mole",
       "clip": "Audio-067-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.64,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1125,7 +1125,7 @@
       "nahuatl": "Tlasojkamati  miek",
       "spanish": "Gracias",
       "clip": "Audio-068-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.58,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1140,7 +1140,7 @@
       "nahuatl": "Xikisa",
       "spanish": "Salte!",
       "clip": "Audio-069-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.96,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1154,7 +1154,7 @@
       "nahuatl": "Xicochi nikan",
       "spanish": "Duerme aquí",
       "clip": "Audio-070-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.22,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1169,7 +1169,7 @@
       "nahuatl": "Xikalchiuakan",
       "spanish": "Hagan casas",
       "clip": "Audio-071-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.36,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1184,7 +1184,7 @@
       "nahuatl": "Xitlanamaka",
       "spanish": "Vende",
       "clip": "Audio-072-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.16,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1199,7 +1199,7 @@
       "nahuatl": "Makuali xihualacan",
       "spanish": "Sean bienvenidos",
       "clip": "Audio-073-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.54,
       "canonical": false,
       "approved": true,
       "notes": "duplicate of 032 ('sean_bienvenidos')"
@@ -1214,7 +1214,7 @@
       "nahuatl": "Koatl",
       "spanish": "Serpiente",
       "clip": "Audio-074-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.78,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1229,7 +1229,7 @@
       "nahuatl": "Tochtli",
       "spanish": "Conejo",
       "clip": "Audio-075-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.9,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1245,7 +1245,7 @@
       "nahuatl": "Michin",
       "spanish": "Pez",
       "clip": "Audio-076-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.8,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1260,7 +1260,7 @@
       "nahuatl": "Macuil",
       "spanish": "Cinco",
       "clip": "Audio-077-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.88,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1275,7 +1275,7 @@
       "nahuatl": "Chicuace",
       "spanish": "Seis",
       "clip": "Audio-078-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.5,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1290,7 +1290,7 @@
       "nahuatl": "Chicome",
       "spanish": "Siete",
       "clip": "Audio-079-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.9,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1305,7 +1305,7 @@
       "nahuatl": "Chicueyi",
       "spanish": "Ocho",
       "clip": "Audio-080-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.98,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1320,7 +1320,7 @@
       "nahuatl": "Chignaui",
       "spanish": "Nueve",
       "clip": "Audio-081-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.98,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1335,7 +1335,7 @@
       "nahuatl": "Huanmajtlaj",
       "spanish": "Diez",
       "clip": "Audio-082-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.14,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1350,7 +1350,7 @@
       "nahuatl": "Yolotl",
       "spanish": "Corazón",
       "clip": "Audio-083-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.84,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1365,7 +1365,7 @@
       "nahuatl": "Nahui",
       "spanish": "Cuatro",
       "clip": "Audio-084-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.84,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1380,7 +1380,7 @@
       "nahuatl": "Atl",
       "spanish": "Agua",
       "clip": "Audio-085-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.252,
       "canonical": false,
       "approved": true,
       "notes": "duplicate of 029 ('agua')"
@@ -1395,7 +1395,7 @@
       "nahuatl": "Amoxtli",
       "spanish": "Libro",
       "clip": "Audio-086-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.94,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1410,7 +1410,7 @@
       "nahuatl": "Kali",
       "spanish": "Casa",
       "clip": "Audio-087-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.74,
       "canonical": false,
       "approved": true,
       "notes": "duplicate of 034 ('casa')"
@@ -1440,7 +1440,7 @@
       "nahuatl": "Sijtli",
       "spanish": "Abuela",
       "clip": "Audio-089-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.92,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1697,7 +1697,7 @@
       "nahuatl": "Ken moijtoa ika nawatlajtoli xinech palewi?",
       "spanish": "¿Cómo se dice ayudame en náhuatl?",
       "clip": "Audio-106-2026.wav",
-      "durationS": 0.0,
+      "durationS": 4.04,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1711,7 +1711,7 @@
       "nahuatl": "Ken moijtoa ika nawatlajtoli?",
       "spanish": "¿Cómo se dice en náhuatl?",
       "clip": "Audio-107-2026.wav",
-      "durationS": 0.0,
+      "durationS": 2.58,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1726,7 +1726,7 @@
       "nahuatl": "Ijkon moijtoa",
       "spanish": "Así se dice",
       "clip": "Audio-108-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.5,
       "canonical": false,
       "approved": true,
       "notes": "duplicate of 017 ('asi_se_dice')"
@@ -1741,7 +1741,7 @@
       "nahuatl": "Ken moijtoa ika nawatlajtoli nimitstlasojtla?",
       "spanish": "¿Cómo se dice te amo en náhuatl?",
       "clip": "Audio-109-2026.wav",
-      "durationS": 0.0,
+      "durationS": 3.44,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1756,7 +1756,7 @@
       "nahuatl": "Quemitl",
       "spanish": "Vestido",
       "clip": "Audio-110-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.78,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1771,7 +1771,7 @@
       "nahuatl": "Nimitstlasojtla",
       "spanish": "Te amo",
       "clip": "Audio-111-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.74,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1786,7 +1786,7 @@
       "nahuatl": "Yauh",
       "spanish": "Guerrero",
       "clip": "Audio-112-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.06,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1801,7 +1801,7 @@
       "nahuatl": "Xalxokotl",
       "spanish": "Guayaba",
       "clip": "Audio-113-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.24,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1817,7 +1817,7 @@
       "nahuatl": "Xitomatl",
       "spanish": "Jitomate",
       "clip": "Audio-114-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.0,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1832,7 +1832,7 @@
       "nahuatl": "Xali",
       "spanish": "Arena",
       "clip": "Audio-115-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.94,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1862,7 +1862,7 @@
       "nahuatl": "Xonakatl",
       "spanish": "Cebolla",
       "clip": "Audio-117-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.26,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1877,7 +1877,7 @@
       "nahuatl": "Xapo",
       "spanish": "Jabón",
       "clip": "Audio-118-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.7,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1892,7 +1892,7 @@
       "nahuatl": "Tiankistli",
       "spanish": "Mercado",
       "clip": "Audio-119-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.18,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1907,7 +1907,7 @@
       "nahuatl": "Tlali",
       "spanish": "Tierra",
       "clip": "Audio-120-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.94,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1922,7 +1922,7 @@
       "nahuatl": "Papalotl",
       "spanish": "Mariposa",
       "clip": "Audio-121-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.02,
       "canonical": true,
       "approved": true,
       "notes": ""
@@ -1937,7 +1937,7 @@
       "nahuatl": "Kaxitl",
       "spanish": "Plato",
       "clip": "Audio-122-2026.wav",
-      "durationS": 0.0,
+      "durationS": 0.86,
       "canonical": true,
       "approved": true,
       "notes": ""
