@@ -27,8 +27,10 @@ Linux (Ubuntu 24.04): `apt install dotnet-sdk-8.0 ffmpeg`, then the pip line.
 
 ## 1. Audio: inventory, listen, cleanup
 
-Download the Drive folder `Audios_náhuatl` into `audio/raw/` (122 MP3s,
-`Audio-NNN-2026.mp3`). Then, from the repository root:
+The 122 MP3s from the Drive folder `Audios_náhuatl` are in `audio/raw/`
+(`Audio-NNN-2026.mp3`; they arrived as `Audios_náhuatl/` in the init commit
+and were moved unchanged). To refresh them, download the Drive folder into
+`audio/raw/` again. Then, from the repository root:
 
 ```sh
 python3 tools/inventory.py      # renames "Audio 011"/"Audio 012" to the dash form,
