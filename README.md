@@ -185,7 +185,7 @@ a noisy room, run `dotnet test tests/Integration`, 8 of 10 must be right.
 
 Nothing else changes.
 
-## Review with Sonia
+## Review
 
 * `review.csv` — every row of the document with a status: `ok`,
   `duplicate`, `suspect`, `missing-clip`, `unnumbered`; the generated
