@@ -2,6 +2,10 @@
 
 A Spanish sentence goes in, one of the 122 Náhuatl recordings comes out.
 
+**Guía en español** (Windows, Linux, macOS, integración en Unity):
+[docs/GUIA_ES.md](docs/GUIA_ES.md). Componente de ejemplo para Unity:
+[unity/NahuatlNpc.cs](unity/NahuatlNpc.cs).
+
 * `src/Intent/` — the matcher, a C# library (netstandard2.1, no packages, no
   LINQ/reflection/dynamic) that is copied into the Unity project as files.
 * `data/phrases.json` — the phrase database, one row per recording, built
