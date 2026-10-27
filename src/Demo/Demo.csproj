@@ -6,6 +6,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
+    <!-- Run on any newer runtime too (e.g. a Mac with only .NET 10 installed). -->
+    <RollForward>Major</RollForward>
     <Nullable>disable</Nullable>
     <ImplicitUsings>disable</ImplicitUsings>
     <RootNamespace>NahuatlIntent.Demo</RootNamespace>

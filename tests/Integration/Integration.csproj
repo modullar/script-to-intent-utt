@@ -5,6 +5,8 @@
        stays under five seconds. Run with: dotnet test tests/Integration -->
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
+    <!-- Run on any newer runtime too (e.g. a Mac with only .NET 10 installed). -->
+    <RollForward>Major</RollForward>
     <Nullable>disable</Nullable>
     <ImplicitUsings>disable</ImplicitUsings>
     <IsPackable>false</IsPackable>

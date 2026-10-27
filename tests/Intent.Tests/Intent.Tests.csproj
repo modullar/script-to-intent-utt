@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
+    <!-- Run on any newer runtime too (e.g. a Mac with only .NET 10 installed). -->
+    <RollForward>Major</RollForward>
     <Nullable>disable</Nullable>
     <IsPackable>false</IsPackable>
     <IsTestProject>true</IsTestProject>

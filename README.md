@@ -18,12 +18,19 @@ A Spanish sentence goes in, one of the 122 Náhuatl recordings comes out.
 macOS:
 
 ```sh
-brew install --cask dotnet-sdk
+brew install --cask dotnet-sdk               # any .NET SDK 8 or newer; the projects roll forward
 brew install sox ffmpeg
 pip3 install -r tools/requirements.txt      # numpy, pytest
 ```
 
 Linux (Ubuntu 24.04): `apt install dotnet-sdk-8.0 ffmpeg`, then the pip line.
+
+The code lives on the PR branch until it is merged:
+
+```sh
+git fetch origin && git checkout claude/youthful-cray-w0bwq8
+dotnet test                                 # from the repository root, where NahuatlIntent.sln is
+```
 
 ## 1. Audio: inventory, listen, cleanup
 
