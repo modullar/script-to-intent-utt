@@ -86,7 +86,7 @@ id,status,intent,canonical,approved,nahuatl,spanish,keywordsEs,clip,durationS,no
 085,duplicate,agua,,yes,Atl,Agua,agua | aguas,Audio-085-2026.wav,0.000,duplicate of 029 ('agua')
 086,ok,libro,yes,yes,Amoxtli,Libro,libro | libros,Audio-086-2026.wav,0.000,
 087,duplicate,casa,,yes,Kali,Casa,casa | casas,Audio-087-2026.wav,0.000,duplicate of 034 ('casa')
-088,ok,clase_uno,yes,yes,Tlamachtili se,Clase uno,clase uno | clase,Audio-088-2026.wav,0.000,
+088,ok,clase_uno,yes,yes,Tlamachtili se,Clase uno,clase uno | clase,Audio-088-2026.wav,1.460,
 089,ok,abuela,yes,yes,Sijtli,Abuela,abuela | abuelas,Audio-089-2026.wav,0.000,
 090,duplicate,mujer,,yes,Siuatl,Mujer,mujer | mujeres,Audio-090-2026.wav,0.820,duplicate of 028 ('mujer')
 091,ok,abuelo,yes,yes,Koli,Abuelo,abuelo | abuelos,Audio-091-2026.wav,0.720,

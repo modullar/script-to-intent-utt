@@ -31,3 +31,4 @@ timestamp	name	rawDurationS	cleanDurationS	startS	endS	inputLufs	outputLufs	gain
 2026-10-27T14:45:52Z	Audio-102-2026.mp3	2.194	0.620	1.150	1.770	-18.2	-16.7	7.4	ebur128-gain	LISTEN	3 correction pass(es) after limiter
 2026-10-27T14:45:52Z	Audio-104-2026.mp3	1.646	0.820	0.390	1.210	-19.0	-16.5	6.0	ebur128-gain		1 correction pass(es) after limiter
 2026-10-27T14:45:53Z	Audio-105-2026.mp3	1.541	0.780	0.250	1.030	-19.0	-16.5	5.8	ebur128-gain		1 correction pass(es) after limiter
+2026-10-27T14:48:58Z	Audio-088-2026.mp3	2.586	1.460	0.630	2.090	-16.5	-16.2	0.5	ebur128-gain+limiter		

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T14:43:33Z",
+  "generatedAt": "2026-10-27T14:48:58Z",
   "source": "Vocabulario_nahuatl.docx",
   "fallbackIntent": "fallback",
   "stopwordsEs": [
@@ -1425,7 +1425,7 @@
       "nahuatl": "Tlamachtili se",
       "spanish": "Clase uno",
       "clip": "Audio-088-2026.wav",
-      "durationS": 0.0,
+      "durationS": 1.46,
       "canonical": true,
       "approved": true,
       "notes": ""
