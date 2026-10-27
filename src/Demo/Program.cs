@@ -99,7 +99,17 @@ Options:
                 return 0;
             }
 
-            using (Transcriber transcriber = await Transcriber.CreateAsync(opts.Model))
+            Transcriber transcriber;
+            try
+            {
+                transcriber = await Transcriber.CreateAsync(opts.Model);
+            }
+            catch (Exception ex)
+            {
+                Console.Error.WriteLine("Whisper could not start: " + ex.Message);
+                return 3;
+            }
+            using (transcriber)
             {
                 if (opts.Wav != null)
                 {
