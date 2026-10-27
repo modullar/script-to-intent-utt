@@ -2,49 +2,75 @@ using System;
 using System.ComponentModel;
 using System.Diagnostics;
 using System.IO;
+using System.Runtime.InteropServices;
 
 namespace NahuatlIntent.Demo
 {
-    /// <summary>Records from the default microphone with sox until Enter is pressed.</summary>
+    /// <summary>
+    /// Records from the default microphone with sox, 16 kHz mono 16-bit.
+    /// On macOS and Linux it records until Enter is pressed (sox is stopped
+    /// with SIGINT so it closes the WAV properly). Windows has no SIGINT for
+    /// another process, so there it records a fixed number of seconds;
+    /// --seconds forces that mode everywhere.
+    /// </summary>
     public sealed class Recorder
     {
-        public string RecordUntilEnter(string outPath)
+        private readonly int fixedSeconds;
+
+        public Recorder(int fixedSeconds)
+        {
+            if (fixedSeconds <= 0 && RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
+                fixedSeconds = 5;
+            this.fixedSeconds = fixedSeconds;
+        }
+
+        public bool FixedLength { get { return fixedSeconds > 0; } }
+        public int Seconds { get { return fixedSeconds; } }
+
+        public string Record(string outPath)
         {
             if (File.Exists(outPath)) File.Delete(outPath);
-            var psi = new ProcessStartInfo("sox", "-d -r 16000 -c 1 -b 16 \"" + outPath + "\"")
-            {
-                UseShellExecute = false,
-            };
+            string args = "-d -r 16000 -c 1 -b 16 \"" + outPath + "\"";
+            if (fixedSeconds > 0) args += " trim 0 " + fixedSeconds;
+
             Process sox;
             try
             {
-                sox = Process.Start(psi);
+                sox = Process.Start(new ProcessStartInfo("sox", args) { UseShellExecute = false });
             }
             catch (Win32Exception)
             {
-                Console.Error.WriteLine("sox not found. Install it with: brew install sox");
+                Console.Error.WriteLine("sox not found. macOS: brew install sox. Linux: apt install sox. " +
+                                        "Windows: choco install sox.portable (or sourceforge.net/projects/sox).");
                 return null;
             }
             if (sox == null) return null;
 
-            Console.WriteLine("Recording... press Enter to stop.");
-            Console.ReadLine();
-
-            // sox finalises the WAV header on SIGINT; Kill() would leave it broken.
-            try
+            if (fixedSeconds > 0)
             {
-                using (Process kill = Process.Start(new ProcessStartInfo("kill", "-INT " + sox.Id) { UseShellExecute = false }))
-                {
-                    kill?.WaitForExit(2000);
-                }
+                Console.WriteLine("Recording " + fixedSeconds + " seconds... speak now.");
+                sox.WaitForExit();
             }
-            catch (Win32Exception) { }
-            if (!sox.WaitForExit(5000)) sox.Kill();
+            else
+            {
+                Console.WriteLine("Recording... press Enter to stop.");
+                Console.ReadLine();
+                // sox finalises the WAV header on SIGINT; Kill() would leave it broken.
+                try
+                {
+                    using (Process kill = Process.Start(new ProcessStartInfo("kill", "-INT " + sox.Id) { UseShellExecute = false }))
+                    {
+                        kill?.WaitForExit(2000);
+                    }
+                }
+                catch (Win32Exception) { }
+                if (!sox.WaitForExit(5000)) sox.Kill();
+            }
             sox.Dispose();
 
             if (!File.Exists(outPath) || new FileInfo(outPath).Length < 1000)
             {
-                Console.Error.WriteLine("Recording failed or too short.");
+                Console.Error.WriteLine("Recording failed or too short. Is a microphone connected and allowed?");
                 return null;
             }
             return outPath;

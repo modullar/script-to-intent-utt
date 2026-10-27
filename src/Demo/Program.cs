@@ -14,6 +14,7 @@ namespace NahuatlIntent.Demo
         public string Clean;
         public bool NoAudio;
         public int Threshold = 1;
+        public int Seconds = 0;
 
         public static DemoOptions Parse(string[] args)
         {
@@ -30,6 +31,7 @@ namespace NahuatlIntent.Demo
                     case "--data": o.Data = Require(next, a); i++; break;
                     case "--clean": o.Clean = Require(next, a); i++; break;
                     case "--threshold": o.Threshold = int.Parse(Require(next, a)); i++; break;
+                    case "--seconds": o.Seconds = int.Parse(Require(next, a)); i++; break;
                     case "--no-audio": o.NoAudio = true; break;
                     case "-h": case "--help": return null;
                     default:
@@ -62,6 +64,7 @@ Options:
   --data PATH      phrases.json (default <repo>/data/phrases.json)
   --clean DIR      clean WAV folder (default <repo>/audio/clean)
   --threshold N    Levenshtein distance for near misses (default 1, 0 disables)
+  --seconds N      record a fixed N seconds instead of waiting for Enter (always the case on Windows, default 5)
   --no-audio       do not play clips (also skips the greeting)");
         }
 
@@ -118,14 +121,16 @@ Options:
                     return 0;
                 }
 
-                var recorder = new Recorder();
+                var recorder = new Recorder(opts.Seconds);
                 string wavPath = Path.Combine(Path.GetTempPath(), "script-to-intent-utt-rec.wav");
                 while (true)
                 {
-                    Console.Write("\nEnter to record, q to quit: ");
+                    Console.Write(recorder.FixedLength
+                        ? "\nEnter to record " + recorder.Seconds + " s, q to quit: "
+                        : "\nEnter to record, q to quit: ");
                     string line = Console.ReadLine();
                     if (line == null || line.Trim().Equals("q", StringComparison.OrdinalIgnoreCase)) break;
-                    string wav = recorder.RecordUntilEnter(wavPath);
+                    string wav = recorder.Record(wavPath);
                     if (wav == null) continue;
                     string text = await transcriber.TranscribeAsync(wav);
                     Handle(matcher, player, text, "whisper");
