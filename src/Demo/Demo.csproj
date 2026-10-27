@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Terminal demo for macOS: whisper.net transcribes, the Intent library
+       matches, afplay plays the Náhuatl clip. Runs on Linux too with
+       -\-text / -\-no-audio for a quick check without microphone or model. -->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>NahuatlIntent.Demo</RootNamespace>
+    <AssemblyName>NahuatlIntentDemo</AssemblyName>
+    <!-- Do not set InvariantGlobalization: it disables Unicode decomposition
+         and the accent stripping in Normalizer would then rely on its
+         fallback table only. -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Whisper.net" Version="1.9.1" />
+    <PackageReference Include="Whisper.net.Runtime" Version="1.9.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Intent\Intent.csproj" />
+  </ItemGroup>
+
+</Project>
